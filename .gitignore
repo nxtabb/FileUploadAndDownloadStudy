@@ -1,0 +1,7 @@
+.idea
+.out
+.target
+# Project exclude paths
+/FileUploadStudy/target/
+/FileUploadStudyBySSM/target/
+/out/
